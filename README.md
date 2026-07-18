@@ -18,6 +18,9 @@ Email Me 👉 ✉️ **yashpraveen2007@gmail.com** For Collaboration/Project or 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-sharma-7803a7379 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashpraveen2007@gmail.com) 
 
+-## ⚕️Medical Store Website :
+https://medical-store-eight-self.vercel.app/
+
 <!-- Snake Game Repo View -->
 
 <div align="center">
