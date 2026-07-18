@@ -7,7 +7,7 @@ Email Me 👉 ✉️ **yashpraveen2007@gmail.com** For Collaboration/Project or 
 - 🌱 **I’m currently learning:** Cybersecurity,WebDev
 - 👯 **I’m looking to collaborate on:** New Cyber And Ai Tech Related Projets
 - 🤔 **I’m looking for help with:** New Innovative Cyber And Web Projects
-- 💬 **Ask me about:** CYyber,Web dev,AI-ML
+- 💬 **Ask me about:** Cyber,Web dev,AI-ML
 - 📫 **How to reach me:** yashpraveen2007@gmail.com
 - 😄 **Pronouns:** Yash Sharma 
 - ⚡ **Fun fact:** I Love Cyber and Cyber Love Me
