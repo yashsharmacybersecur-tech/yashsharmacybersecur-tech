@@ -16,7 +16,7 @@ Email Me 👉 ✉️ **yashpraveen2007@gmail.com** For Collaboration/Project or 
 ![](https://github-profile-trophy.vercel.app/?username=yashsharmacybersecur-tech&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/YASH SHARMA) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashpraveen2007@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-sharma-7803a7379 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashpraveen2007@gmail.com) 
 
 <!-- Snake Game Repo View -->
 
